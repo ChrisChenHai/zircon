@@ -1,9 +1,0 @@
-library example_0;
-
-struct Foo {
-    Bar b;
-};
-
-struct Bar {
-    Foo? f;
-};
